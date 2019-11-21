@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Rikewang&#39;s blog</title>
-    <link>http://rikewang.github.io/posts/</link>
+    <link>https://rikewang.github.io/posts/</link>
     <description>Recent content in Posts on Rikewang&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Nov 2019 19:46:41 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2019 22:53:37 +0800</lastBuildDate>
     
-	<atom:link href="http://rikewang.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rikewang.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My First Post</title>
-      <link>http://rikewang.github.io/posts/my-first-post/</link>
-      <pubDate>Thu, 21 Nov 2019 19:46:41 +0800</pubDate>
+      <title>测试文件</title>
+      <link>https://rikewang.github.io/posts/%E6%B5%8B%E8%AF%95%E6%96%87%E4%BB%B6/</link>
+      <pubDate>Thu, 21 Nov 2019 22:53:37 +0800</pubDate>
       
-      <guid>http://rikewang.github.io/posts/my-first-post/</guid>
-      <description> 这是测试 print &amp;quot;hello world&amp;quot;  </description>
+      <guid>https://rikewang.github.io/posts/%E6%B5%8B%E8%AF%95%E6%96%87%E4%BB%B6/</guid>
+      <description>你好 这里是我的博客</description>
     </item>
     
   </channel>

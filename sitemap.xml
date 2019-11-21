@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rikewang.github.io/categories/</loc>
+    <loc>https://rikewang.github.io/posts/</loc>
+    <lastmod>2019-11-21T22:53:37+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://rikewang.github.io/</loc>
+    <lastmod>2019-11-21T22:53:37+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rikewang.github.io/posts/%E6%B5%8B%E8%AF%95%E6%96%87%E4%BB%B6/</loc>
+    <lastmod>2019-11-21T22:53:37+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rikewang.github.io/categories/</loc>
   </url>
   
   <url>
