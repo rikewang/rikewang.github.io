@@ -3,26 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://rikewang.github.io/posts/my-first-post/</loc>
-    <lastmod>2019-11-21T19:46:41+08:00</lastmod>
+    <loc>https://rikewang.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>http://rikewang.github.io/posts/</loc>
-    <lastmod>2019-11-21T19:46:41+08:00</lastmod>
+    <loc>https://rikewang.github.io/</loc>
   </url>
   
   <url>
-    <loc>http://rikewang.github.io/</loc>
-    <lastmod>2019-11-21T19:46:41+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://rikewang.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://rikewang.github.io/tags/</loc>
+    <loc>https://rikewang.github.io/tags/</loc>
   </url>
   
 </urlset>
