@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>test on Rikewang&#39;s blog</title>
+    <link>https://rikewang.github.io/tags/test/</link>
+    <description>Recent content in test on Rikewang&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 21 Nov 2019 22:53:37 +0800</lastBuildDate>
+    
+	<atom:link href="https://rikewang.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>测试文件</title>
+      <link>https://rikewang.github.io/posts/%E6%B5%8B%E8%AF%95%E6%96%87%E4%BB%B6/</link>
+      <pubDate>Thu, 21 Nov 2019 22:53:37 +0800</pubDate>
+      
+      <guid>https://rikewang.github.io/posts/%E6%B5%8B%E8%AF%95%E6%96%87%E4%BB%B6/</guid>
+      <description> 你好 这里是我的博客
+测试图片： </description>
+    </item>
+    
+  </channel>
+</rss>
